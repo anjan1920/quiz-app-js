@@ -4,7 +4,7 @@
 This is a **simple quiz web application** built using **HTML, CSS (Tailwind), and JavaScript**.
 It dynamically shows multiple-choice questions and tracks user scores. Designed to work on both desktop and mobile devices.
 
-### Try it --  
+### Try it --   https://anjan1920.github.io/quiz-app-js/
 
 ### 🛠 Tech Stack
 
